@@ -1,5 +1,5 @@
-pref-title = Addon Template Example
+pref-title = SciDB Downloader Settings
 pref-enable =
     .label = Enable
-pref-input = Input
+pref-endpoint = SciDB Endpoint URL
 pref-help = { $name } Build { $version } { $time }
